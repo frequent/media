@@ -228,17 +228,19 @@
 .ci-techno .ci-slideshow .ci-slideshow-intro.present > h2,
 .ci-techno .ci-slideshow .ci-slideshow-intro.present:before,
 .ci-techno .ci-slideshow h1,
-.ci-techno .ci-slideshow a,
 .ci-techno .ci-slideshow h2,
 .ci-techno .ci-slideshow h3,
+.ci-techno .ci-slideshow div {
+  color: #0585bb;
+}
+/*.ci-techno .ci-slideshow a,*/
 .ci-techno .ci-slideshow ul li,
 .ci-techno .ci-slideshow p,
-.ci-techno .ci-slideshow div,
 .ci-techno .ci-slideshow details,
 .ci-techno .ci-slideshow summary,
 .ci-techno .ci-slideshow footer,
 .ci-techno .ci-slideshow-handout a {
-  color: #0585bb;
+  color: #000000;
 }
 .ci-techno .ci-slideshow a {
   text-decoration: underline;
