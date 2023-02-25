@@ -217,5 +217,85 @@
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
 }
 
+/* ========================================================================== */
+/* ==========================  Techno THEME =================================== */
+/* ========================================================================== */
+
+
+/* ------------------------  Slideshow -------------------------------------- */
+.ci-techno .ci-slideshow .ci-slideshow-header h2,
+.ci-techno .ci-slideshow .ci-slideshow-footer, 
+.ci-techno .ci-slideshow .ci-slideshow-intro.present > h2,
+.ci-techno .ci-slideshow .ci-slideshow-intro.present:before,
+.ci-techno .ci-slideshow h1,
+.ci-techno .ci-slideshow a,
+.ci-techno .ci-slideshow h2,
+.ci-techno .ci-slideshow h3,
+.ci-techno .ci-slideshow ul li,
+.ci-techno .ci-slideshow p,
+.ci-techno .ci-slideshow div,
+.ci-techno .ci-slideshow details,
+.ci-techno .ci-slideshow summary,
+.ci-techno .ci-slideshow footer,
+.ci-techno .ci-slideshow-handout a {
+  color: #0585bb;
+}
+.ci-techno .ci-slideshow a {
+  text-decoration: underline;
+}
+.ci-techno .ci-slideshow section.ci-slideshow-intro.present:before {
+  background-size: 33%;
+}
+.ci-techno .ci-slideshow section.ci-slideshow-intro.present {
+  background: #0585bb;
+  color: #FFFAFF;
+}
+.ci-techno .ci-slideshow section.ci-slideshow-intro.present > h2 {
+  background: #FFFAFF;
+}
+.ci-techno .ci-slideshow .reveal .slide-number {
+  background-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .slide-number span {
+  color: #ffffff;
+}
+.ci-techno .ci-slideshow .reveal .controls .navigate-left,
+.ci-techno .ci-slideshow .reveal .controls .navigate-left.enabled {
+  border-right-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .controls .navigate-right,
+.ci-techno .ci-slideshow .reveal .controls .navigate-right.enabled {
+  border-left-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .controls .navigate-up,
+.ci-techno .ci-slideshow .reveal .controls .navigate-up.enabled {
+  border-bottom-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .controls .navigate-down,
+.ci-techno .ci-slideshow .reveal .controls .navigate-down.enabled {
+  border-top-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .controls .navigate-left.enabled:hover {
+  border-right-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .controls .navigate-right.enabled:hover {
+  border-left-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .controls .navigate-up.enabled:hover {
+  border-bottom-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .controls .navigate-down.enabled:hover {
+  border-top-color: #0585bb;
+}
+.ci-techno .ci-slideshow .reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+}
+.ci-techno .ci-slideshow .reveal .progress span {
+  background: #0585bb;
+  -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+}
+
 
 
