@@ -220,7 +220,7 @@
 /* ========================================================================== */
 /* ==========================  Techno THEME =================================== */
 /* ========================================================================== */
-
+/* Merci, https://coolors.co/ff331f-fbfbff-0585bb-002a4c-d7cdcc */
 
 /* ------------------------  Slideshow -------------------------------------- */
 .ci-techno .ci-slideshow .ci-slideshow-header h2,
@@ -231,7 +231,7 @@
 .ci-techno .ci-slideshow h2,
 .ci-techno .ci-slideshow h3,
 .ci-techno .ci-slideshow div {
-  color: #0585bb;
+  color: #002A4C;
 }
 /*.ci-techno .ci-slideshow a,*/
 .ci-techno .ci-slideshow ul li,
@@ -249,17 +249,17 @@
   background-size: 33%;
 }
 .ci-techno .ci-slideshow section.ci-slideshow-intro.present {
-  background: #0585bb;
-  color: #FFFAFF;
+  background: #002A4C;
+  color: #FBFBFF;
 }
 .ci-techno .ci-slideshow section.ci-slideshow-intro.present > h2 {
-  background: #FFFAFF;
+  background: #FBFBFF;
 }
 .ci-techno .ci-slideshow .reveal .slide-number {
   background-color: #0585bb;
 }
 .ci-techno .ci-slideshow .reveal .slide-number span {
-  color: #ffffff;
+  color: #FBFBFF;
 }
 .ci-techno .ci-slideshow .reveal .controls .navigate-left,
 .ci-techno .ci-slideshow .reveal .controls .navigate-left.enabled {
@@ -275,25 +275,25 @@
 }
 .ci-techno .ci-slideshow .reveal .controls .navigate-down,
 .ci-techno .ci-slideshow .reveal .controls .navigate-down.enabled {
-  border-top-color: #0585bb;
+  border-top-color: #0585BB;
 }
 .ci-techno .ci-slideshow .reveal .controls .navigate-left.enabled:hover {
-  border-right-color: #0585bb;
+  border-right-color: #002A4C;
 }
 .ci-techno .ci-slideshow .reveal .controls .navigate-right.enabled:hover {
-  border-left-color: #0585bb;
+  border-left-color: #002A4C;
 }
 .ci-techno .ci-slideshow .reveal .controls .navigate-up.enabled:hover {
-  border-bottom-color: #0585bb;
+  border-bottom-color: #002A4C;
 }
 .ci-techno .ci-slideshow .reveal .controls .navigate-down.enabled:hover {
-  border-top-color: #0585bb;
+  border-top-color: #002A4C;
 }
 .ci-techno .ci-slideshow .reveal .progress {
   background: rgba(0, 0, 0, 0.2);
 }
 .ci-techno .ci-slideshow .reveal .progress span {
-  background: #0585bb;
+  background: #002A4C;
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
