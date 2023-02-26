@@ -250,16 +250,16 @@
 }
 .ci-techno .ci-slideshow section.ci-slideshow-intro.present {
   background: #002A4C;
-  color: #FBFBFF;
+  color: #ffffff;
 }
 .ci-techno .ci-slideshow section.ci-slideshow-intro.present > h2 {
-  background: #FBFBFF;
+  background: #ffffff;
 }
 .ci-techno .ci-slideshow .reveal .slide-number {
   background-color: #0585bb;
 }
 .ci-techno .ci-slideshow .reveal .slide-number span {
-  color: #FBFBFF;
+  color: #ffffff;
 }
 .ci-techno .ci-slideshow .reveal .controls .navigate-left,
 .ci-techno .ci-slideshow .reveal .controls .navigate-left.enabled {
