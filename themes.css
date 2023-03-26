@@ -380,3 +380,85 @@
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
 }
+
+/* ========================================================================== */
+/* ==========================  AAFB THEME =================================== */
+/* ========================================================================== */
+/* #F4F4F0 */
+
+/* ------------------------  Slideshow -------------------------------------- */
+.ci-aafb .ci-slideshow .ci-slideshow-header h2,
+.ci-aafb .ci-slideshow .ci-slideshow-footer, 
+.ci-aafb .ci-slideshow .ci-slideshow-intro.present > h2,
+.ci-aafb .ci-slideshow .ci-slideshow-intro.present:before,
+.ci-aafb .ci-slideshow h1,
+.ci-aafb .ci-slideshow h2,
+.ci-aafb .ci-slideshow h3,
+.ci-aafb .ci-slideshow div {
+  color: #000000;
+}
+/*.ci-aafb .ci-slideshow a,*/
+.ci-aafb .ci-slideshow ul li,
+.ci-aafb .ci-slideshow p,
+.ci-aafb .ci-slideshow details,
+.ci-aafb .ci-slideshow summary,
+.ci-aafb .ci-slideshow footer,
+.ci-aafb .ci-slideshow-handout a {
+  color: #000000;
+}
+.ci-aafb .ci-slideshow a {
+  text-decoration: underline;
+}
+.ci-aafb .ci-slideshow section.ci-slideshow-intro.present:before {
+  background-size: 33%;
+}
+.ci-aafb .ci-slideshow section.ci-slideshow-intro.present {
+  background: #F4F4F0;
+  color: #ffffff;
+}
+.ci-aafb .ci-slideshow section.ci-slideshow-intro.present > h2 {
+  background: #ffffff;
+}
+.ci-aafb .ci-slideshow .reveal .slide-number {
+  background-color: #000000;
+}
+.ci-aafb .ci-slideshow .reveal .slide-number span {
+  color: #ffffff;
+}
+.ci-aafb .ci-slideshow .reveal .controls .navigate-left,
+.ci-aafb .ci-slideshow .reveal .controls .navigate-left.enabled {
+  border-right-color: #F4F4F0;
+}
+.ci-aafb .ci-slideshow .reveal .controls .navigate-right,
+.ci-aafb .ci-slideshow .reveal .controls .navigate-right.enabled {
+  border-left-color: #F4F4F0;
+}
+.ci-aafb .ci-slideshow .reveal .controls .navigate-up,
+.ci-aafb .ci-slideshow .reveal .controls .navigate-up.enabled {
+  border-bottom-color: #F4F4F0;
+}
+.ci-aafb .ci-slideshow .reveal .controls .navigate-down,
+.ci-aafb .ci-slideshow .reveal .controls .navigate-down.enabled {
+  border-top-color: #F4F4F0;
+}
+.ci-aafb .ci-slideshow .reveal .controls .navigate-left.enabled:hover {
+  border-right-color: #F4F4F0;
+}
+.ci-aafb .ci-slideshow .reveal .controls .navigate-right.enabled:hover {
+  border-left-color: #F4F4F0;
+}
+.ci-aafb .ci-slideshow .reveal .controls .navigate-up.enabled:hover {
+  border-bottom-color: #F4F4F0;
+}
+.ci-aafb .ci-slideshow .reveal .controls .navigate-down.enabled:hover {
+  border-top-color: #F4F4F0;
+}
+.ci-aafb .ci-slideshow .reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+}
+.ci-aafb .ci-slideshow .reveal .progress span {
+  background: #F4F4F0;
+  -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+  transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
+}
